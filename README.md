@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently learning **java Spring Boot**
 
-- 💬 Ask me about **Intermediate DSA**
+- 💬 Ask me about **Data Structure & algorithms**
 
 - 📫 How to reach me **yogeshsingh3596@gmail.com**
 
